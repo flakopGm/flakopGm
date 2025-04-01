@@ -61,4 +61,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/flakopGm/flakopGm/output/snake.svg" alt="Snake animation" />
+
 ###
