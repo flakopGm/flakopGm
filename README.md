@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="left">My name is Jonatan Bresso and I love programming, I love developing software and until the last day of my life I want to learn something new,  i´m living in Las Palmas de Gran Canaria, España</h4>
+<h4 align="left">Hi 👋 ! My name is Jonatan and I love programming, I love developing software and until the last day of my life I want to learn something new. I´m living in Las Palmas de Gran Canaria, España</h4>
 
 ###
 
